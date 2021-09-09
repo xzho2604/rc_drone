@@ -15,13 +15,46 @@
 |[Eachine EV800D 5.8G 40CH Diversity FPV Goggles](https://www.banggood.com/Eachine-EV800D-5_8G-40CH-Diversity-FPV-Goggles-5-Inch-800+480-Video-Headset-HD-DVR-Build-in-Battery-p-1180354.html?cur_warehouse=USA&ID=532490&rmmds=search) | $118|
 |[RunCam 2 4K Edition](https://www.banggood.com/RunCam-2-4K-Edition-HD-Recording-155-Degree-Wide-Angle-WiFi-FPV-Camera-49g-With-Replaceable-Battery-For-RC-Drone-Airplane-p-1686646.html?rmmds=myorder&cur_warehouse=CN)| $139|
 |[Eachine TS5828L 600mW 5.8Ghz 40CH Mini FPV Transmitter](https://www.banggood.com/Eachine-TS5828L-600mW-5_8Ghz-40CH-Mini-FPV-Transmitter-VTX-with-LED-Display-For-Tiny-RC-Drone-p-1058136.html?rmmds=myorder&cur_warehouse=CN)| $17|
+|[New V3 3DR Radio Telemetr](https://au.banggood.com/New-V3-3DR-Radio-Telemetry-433MHz-1000mW-with-OTG-Cable-for-APM-Pixhawk-Flight-Controller-RC-Drone-p-1460431.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=AU&utm_content=minha&utm_campaign=minha-au-en-pc&currency=AUD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=sxxx&utm_campaign=sxxx-ssc-aug-all-1129&ad_id=400330096020&gclid=Cj0KCQjw_dWGBhDAARIsAMcYuJyo3Ur90Gasj8cah4_q99_8WaG5YSGQGpuM4GJTNBBO2FfzL_lGomsaAjNSEALw_wcB)| $78|
+|[PandaRC VT5804 V3](https://au.banggood.com/PandaRC-VT5804-V3-5_8G-25mW-or-200mW-or-400mW-or-800mW-or-1000mW-Switchable-Long-Range-FPV-Video-Transmitter-VTX-Support-OSD-p-1701715.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=AU&utm_content=minha&utm_campaign=minha-au-en-pc&currency=AUD&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgcs&utm_content=sxxx&utm_campaign=sxxx-ssc-aug-all-1129&ad_id=400330096020&gclid=CjwKCAjwoNuGBhA8EiwAFxomA4vRyKK2qqIWWQ3MsmuOMeBjbe0St_-jkDvEgiAz6y64pdAm7SBZKhoCe1AQAvD_BwE)| $78|
 | Total| 900|
 
 
 ## PK4
-* [Pixhawk Configuration](https://www.youtube.com/playlist?list=PLYsWjANuAm4rSLU7PQczfpQ9B4KbcPWsI)
+* [Pixhaw Setup 5 videos series](https://www.youtube.com/watch?v=uH2iCRA9G7k&t=1236s)
+* [Pixhawk Configuration 9 video series](https://www.youtube.com/playlist?list=PLYsWjANuAm4rSLU7PQczfpQ9B4KbcPWsI)
+* [Pixhawk Org](https://pixhawk.org/)
+* [Adding FPV to PixHawk](https://www.youtube.com/watch?v=ghhqSGxdIwQ)
+* [Pixhawk Missiong Plane for Beginners](https://www.youtube.com/watch?v=z_sZUOrnfY8)
+* [Missiong Plane 2020 Series](https://www.youtube.com/playlist?list=PLYsWjANuAm4qJ8Lko-3xiYNGb2Hh22rDw)
+* [Inav Live Telemetry Setup with 3DR](https://www.youtube.com/watch?v=XCQz9AeE2qA)
+* [Ardupilot Sik Telemetry Radio](https://ardupilot.org/copter/docs/common-sik-telemetry-radio.html)
+
+## PX4
+* [PX4-compatible Receiver](https://docs.px4.io/master/en/getting_started/rc_transmitter_receiver.html)
+* [Drone Build](https://www.youtube.com/watch?v=dDOQI5NoNP0)
+* [Quick Start](https://docs.px4.io/master/en/assembly/quick_start_pixhawk4.html)
+
+
+
+## Avatar GunShip
+* [Avatar Gunship Fly](http://jivaro-models.org/samson_sa2/page_samson.html)
  
 
+## RoboCat 270
+* [Build](https://www.youtube.com/watch?v=RAyrWWiOUCI)
 
 
+## Radio 
+* [Radio Setup](https://www.youtube.com/watch?v=agjHu-WhCJw&t=345s)
 
+## Telemetory Radio Setup
+* [cp210x VPC Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+* [3DR/MavLink Radio Setup](https://www.youtube.com/watch?v=0lINt4hv5tg) 
+
+## Ground Station
+* [Stream on the PC obsproject.com](https://www.youtube.com/watch?v=Ji7OC6isiOk)
+* [Ardupilot Joystick Setup](https://ardupilot.org/copter/docs/common-joystick.html)
+
+## Build  References
+* [Roter Build](https://rotorbuilds.com)
