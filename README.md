@@ -58,3 +58,10 @@
 
 ## Build  References
 * [Roter Build](https://rotorbuilds.com)
+
+## ECS Configuration
+*  BLheli little bee spring 30A, Little Bee ESC USB
+* [How to Flash/Configure BLHeli_S ESC](https://oscarliang.com/flash-blheli-s-esc-firmware-fc-pass-through/)
+* [BLHeli ESC Guide for Multirotors (passthrough mode)](https://www.dronetrest.com/t/blheli-esc-guide-for-multirotors-passthrough-mode/2761)
+* [ESC Protocol](https://ardupilot.org/copter/docs/common-brushless-escs.html)
+* [BLHeli Suites 32 and 16](https://www.mediafire.com/folder/dx6kfaasyo24l/BLHeliSuite)
